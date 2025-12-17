@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+tensorflow
+numpy
+transformers
+torch
+opencv-python
+beautifulsoup4
+requests
+Pillow
+tf-keras
+stegano
